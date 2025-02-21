@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library.  The image returned from the library may be null or undefined even if the user has successfully selected an image. This can lead to unexpected errors or crashes in your app.
